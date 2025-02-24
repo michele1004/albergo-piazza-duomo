@@ -83,18 +83,22 @@
         <div id="products" class="annulla_font">
             <div class="container">
                 <div class="div_inlinea box_prodotto">
+                    <div class="immagine"><a href="#"><img src="singola.jpg" class="img_100per" alt="Camera Singola"></a></div>
                     <div class="titolo font_piccolo">Camera Singola</div>
                     <div class="testo font_piccolo">€200 a notte</div>
                 </div>
                 <div class="div_inlinea box_prodotto">
+                    <div class="immagine"><a href="#"><img src="doppia.jpg" class="img_100per" alt="Camera Doppia"></a></div>
                     <div class="titolo font_piccolo">Camera Doppia</div>
                     <div class="testo font_piccolo">€380 a notte</div>
                 </div>
                 <div class="div_inlinea box_prodotto">
+                    <div class="immagine"><a href="#"><img src="quadrupla.jpg" class="img_100per" alt="Camera Quadrupla"></a></div>
                     <div class="titolo font_piccolo">Camera Quadrupla</div>
                     <div class="testo font_piccolo">€950 a notte</div>
                 </div>
                 <div class="div_inlinea box_prodotto">
+                    <div class="immagine"><a href="#"><img src="suite moderna.jpg" class="img_100per" alt="Suite"></a></div>
                     <div class="titolo font_piccolo">Junior Suite</div>
                     <div class="testo font_piccolo">€1800 a notte</div>
                 </div>
